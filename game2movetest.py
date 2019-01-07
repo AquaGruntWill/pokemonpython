@@ -1,3 +1,7 @@
+"""and we're back 6 months later lol"""
+
+
+
 from pokemon2 import urPoke
 import random
 from random import randint
